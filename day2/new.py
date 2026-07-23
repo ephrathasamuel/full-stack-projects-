@@ -84,3 +84,7 @@ for name, balance in customer:
     else:
         tire = "basic"
     print(f"{name}: {tire}, ({balance} ETB)")
+
+# Define once
+def greet(name):
+        print(f"Selam, {name}!")
