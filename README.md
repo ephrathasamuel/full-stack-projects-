@@ -1,4 +1,4 @@
-# FILL STACK PROJECTS
+# FULL STACK PROJECTS
 
 A full-stack web application built as a hands-on learning project to practice end-to-end development — from database design to backend APIs to a working frontend.
 
